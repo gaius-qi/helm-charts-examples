@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/gaius-qi/helm-charts-examples/releases/download/mychart-0.1.0/mychart-0.1.0.tgz
     version: 0.1.0
+  yourchat:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-05T09:42:34.799550715Z"
+    description: A Helm chart for Kubernetes
+    digest: e24b73bf49b969903bb2946688335ec0ba3b3e2544797a8d33cfeeae60ec2a77
+    name: yourchat
+    type: application
+    urls:
+    - https://github.com/gaius-qi/helm-charts-examples/releases/download/yourchat-0.1.0/yourchat-0.1.0.tgz
+    version: 0.1.0
 generated: "2021-08-05T09:09:08.669505922Z"
